@@ -1,1 +1,1 @@
-# Non-Divisible-Subset-algo
+# Non-Divisible-Subset-algo The function counts the remainders of all numbers modulo k and ensures that no two numbers in the subset sum to a multiple of k. It selects at most one number from conflicting remainder pairs and handles special cases for 0 and k/2.
